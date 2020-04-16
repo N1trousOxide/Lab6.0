@@ -1,0 +1,4 @@
+/home/nitrousoxide/Lab6.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nitrousoxide/Lab6.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nitrousoxide/Lab6.0/cmake-build-debug/CMakeFiles/source.dir
+/home/nitrousoxide/Lab6.0/cmake-build-debug/CMakeFiles/test.dir
